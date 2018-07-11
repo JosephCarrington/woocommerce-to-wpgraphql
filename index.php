@@ -8,9 +8,10 @@
  * Text Domain: woocommerce-to-wpgraphql
  * License: WTFPL
  * License URI: http://www.wtfpl.net/txt/copying/
+ **/
 
 
-/** Add Woocommerce integration to WPGraphQL if it's installed */
+// Add Woocommerce integration to WPGraphQL if it's installed
 
 use WPGraphQL\Types;
 
